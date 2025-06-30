@@ -16,7 +16,6 @@
   font-optical-sizing: auto;
   font-weight: 100px;
   font-style: normal;
-  font-size: 1rem;
 }
 .font-color{    /*font color*/
     color: #5e5a5a;
@@ -24,4 +23,14 @@
 .white-sheet{
     background-color: rgb(255, 255, 255);
     border: solid #e3d0b8 6px;  /*FAF0DC #D5B895*/
+}
+.social-md-text{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+}
+.social-icons{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
 }
