@@ -1,0 +1,25 @@
+ body {
+      background-image: url('bg_web.jpeg');
+      background-repeat: repeat; /* or no-repeat */
+      background-size: cover;    /* or contain */
+      background-attachment: scroll; /* default: background scrolls with page */
+}
+.alex-brush-regular {   /*font hand writen*/
+  font-family: "Alex Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.font-color{    /*font color*/
+    color: #5d5959;
+}
+.roboto-condensed-uniquifier {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1px;
+  font-style: normal;
+  font-size: 18px;
+}
+.white-sheet{
+    background-color: rgb(255, 255, 255);
+    border: solid #e3d0b8 6px;  /*FAF0DC #D5B895*/
+}
