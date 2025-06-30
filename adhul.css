@@ -1,7 +1,6 @@
  body {
       background-image: url('bg_web.jpeg');
       background-repeat: repeat; /* or no-repeat */
-      background-size: cover;    /* or contain */
       background-attachment: scroll; /* default: background scrolls with page */
 }
 
@@ -20,7 +19,7 @@
   font-size: 1rem;
 }
 .font-color{    /*font color*/
-    color: #5d5959;
+    color: #5e5a5a;
 }
 .white-sheet{
     background-color: rgb(255, 255, 255);
