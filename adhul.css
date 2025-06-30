@@ -4,9 +4,11 @@
       background-size: cover;    /* or contain */
       background-attachment: scroll; /* default: background scrolls with page */
 }
-.alex-brush-regular {   /*font hand writen*/
-  font-family: "Alex Brush", cursive;
-  font-weight: 400;
+
+.dancing-script-main-name {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400px;
   font-style: normal;
 }
 .font-color{    /*font color*/
