@@ -4,7 +4,7 @@
       background-attachment: scroll; /* default: background scrolls with page */
 }
 
-.dancing-script-main-name {
+.dancing-script-main-name{
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
   font-weight: 400px;
@@ -26,7 +26,7 @@
 }
 .social-md-text{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 22px;
+  font-size: 17px;
 }
 .social-icons{
   display: flex;
@@ -42,4 +42,23 @@
 .contact-font-style{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
+}
+.roboto-condensed-about-text{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
+  font-size: 19px;
+  color: green;
+}
+.roboto-condensed-main-text{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.jersey-10-regular{
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
