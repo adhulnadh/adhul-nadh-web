@@ -78,14 +78,15 @@
                                         </p>
                     </div>
                     <div class="col-md-6 col-12">
-                        <form class="container">
+                        <form class="container" action="https://api.web3forms.com/submit" method="POST">
                         <div class="form-group">
+                            <input type="hidden" name="access_key" value="eae890f9-a937-4056-bdc1-e49eaaf494d0">
                         <label class="font-color">Full Name</label>
-                        <input type="text" class="form-control" id="full-name" placeholder="Your name">
+                        <input type="text" class="form-control" id="full-name" name="fullname" placeholder="Your name">
                         </div>
                         <div class="form-group">
                         <label class="font-color">Your E-mail</label>
-                        <input type="text" class="form-control" id="clint-contact" placeholder="example@gmail.com">
+                        <input type="text" class="form-control" name="email" id="clint-contact" placeholder="example@gmail.com">
                         </div>
                         <div class="form-group">
                         <label class="font-color">Your Suggestion</label>
