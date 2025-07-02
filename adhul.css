@@ -62,3 +62,25 @@
   font-weight: 400;
   font-style: normal;
 }
+.resume-heading{
+ font-size: 18px;
+ font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-weight: 100px;
+ color: #FF5722;
+}
+.red-rose-resume-font{
+  font-family: "Red Rose", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+.btn-style{
+  background-color: #5e5a5a;
+  color: aliceblue;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+  border: 0;
+  width: 100px;
+  height: 30px;
+}
