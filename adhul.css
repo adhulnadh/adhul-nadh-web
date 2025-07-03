@@ -1,9 +1,3 @@
- body {
-      background-image: url('bg_web.jpeg');
-      background-repeat: repeat; /* or no-repeat */
-      background-attachment: scroll; /* default: background scrolls with page */
-}
-
 .dancing-script-main-name{
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
@@ -18,21 +12,15 @@
   font-style: normal;
 }
 .font-color{    /*font color*/
-    color: #5e5a5a;
-}
-.white-sheet{
-    background-color: rgb(255, 255, 255);
-    border: solid #e3d0b8 6px;  /*FAF0DC #D5B895*/
+    color: #ffffff;
 }
 .social-md-text{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 17px;
 }
 .social-icons{
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
+  width: 40px;
+  margin-bottom: 10px;
 }
 .navbar-nav{
   list-style: none;
@@ -66,7 +54,7 @@
  font-size: 18px;
  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
  font-weight: 100px;
- color: #FF5722;
+ color: #226cff;
 }
 .red-rose-resume-font{
   font-family: "Red Rose", serif;
@@ -75,12 +63,41 @@
   font-style: normal;
 }
 .btn-style{
-  background-color: #5e5a5a;
-  color: aliceblue;
+  background-color: #00ff2a;
+  color: rgb(14, 14, 15);
   display: block;
   margin: 0 auto;
-  border-radius: 20px;
+  border-radius: 5px;
   border: 0;
-  width: 100px;
+  width: 100%;
   height: 30px;
+}
+.glow-text{
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: 600px;
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px #00ff2a;
+  margin: 40px;
+}
+.base-them-color{ /*content font colours*/
+  color: #ffffff;
+}
+.sub-heading{ /*sub heading font-desing*/
+  color: #00ff2a;
+}
+.body-color{
+  background-color: rgb(39, 38, 38);
+}
+.nav-bar-button{
+  border-color: #ffffff;
+  border-radius: 3px;
+  background-color: rgb(184, 178, 178);
+  color: #ffffff;
+}
+.project-heading{
+  color: red;
+}
+.navbar-toggler-icon{
+  filter: brightness(0) invert(1);
 }
