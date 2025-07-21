@@ -1,0 +1,58 @@
+HOME
+
+Hey, I'm Adhul Nadh an enthusiastic and passionate learner on a journey to build a career in cybersecurity. I created this website to document my progress, share my projects, and skills. I develop my skill to grow from a beginner to a expert with hands-on-experience. My interests span ethical hacking, digital forensics, malware analysis, penetration testing, and system hardening, and I'm driven by the challenge of understanding and defending against real-world cyber threats.
+
+ABOUT
+
+1.From Code to Cyber Shields
+What first drew me to technology was a curiosity for coding and solving problems.Over time, this interest evolved into a deeper passion-now guiding me into the world of cybersecurity, where I'm learning how to protect systems, understand vulnerabilities, and keep up with the ever-changing digital landscape
+A Student's Passion for Digital Defense
+2.A Student's Passion for Digital Defense
+I'm an enthusiastic beginner in the world of cybersecurity, currently exploring its fundamentals and real-world applications. As a student of computer science in kalasalingam academy of research and education, I'm fascinated by how digital systems are protected and enjoy learning about the tools and techniques used to defend against cyber threats.
+
+PROJECTS
+
+1.Portfolio Webpage-HTML, CSS
+Designed and built a simple personal webpage to showcase learning progress Practiced layout design, embedded custom fonts, and styled with CSS
+2.Password Generator-Python
+github.com/adhulnadh/password-generator
+Created a secure and customizable random password generator using Python Implemented user input for length and complexity Practiced string manipulation, randomization, and simple GUI interaction
+
+RESUME
+
+Objective
+Beginner in cybersecurity with a strong interest in protecting digital systems, currently building a solid foundation in cyber defense, ethical hacking, and automation. Aiming to grow into a skilled cybersecurity expert through continuous learning, hands-on projects, and real-world problem solving.
+Education
+Kalasalingam Academy of Research and Education, Tamil Nadu, India B.Tech in Computer Science and Engineering Joined in 2025 (First Year Student).
+Beginning foundational coursework in programming, data structures, and computer systems.
+Actively self-learning Python, web development, and cybersecurity basics.
+Skills
+Programming Languages: C++, Python, HTML, CSS
+Web Development: Basic frontend design, embedding fonts, responsive layout
+Cybersecurity: Introductory concepts, threat awarenes
+Tools
+Git, VS Code, Linux (basics)
+Learning Areas
+Python automation, ethical hacking, web scripting, network basics
+Projects
+1.Portfolio Webpage-HTML,CSS
+2.Password Generator-Python
+Courses in progress
+Python for Beginners-[Brototype], [June, 2025 ]
+Introduction to Cybersecurity-[Cisco], [ July , 2025 ]
+Activities & Interests
+Interested in cybersecurity tools and ethical hacking fundamentals Following YouTube tutorials, blogs, and online communities to build skills Looking forward to joining tech clubs and competitions in college
+Languages
+English (Fluent) Malayalam (Native)
+
+CONTACT
+
+Name : Adhul Nadh.V
+Place : Malappuram
+Address : Kerala, Malappuram, Chelari, 676317
+Email : adhulnadh39@gmail.com
+
+
+Thank you for visiting my website! If you have any questions, feedback, or just want to connect, feel free to reach out I'd love to hear from you.
+
+
